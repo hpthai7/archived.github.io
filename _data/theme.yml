@@ -5,22 +5,22 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
+  github: hpthai7
   #bitbucket: philipj
-  hacker_news: swanson
+  #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  twitter: _swanson
-  #facebook: zuck
-  #tumblr: animalygifs
-  #linkedin: philipjagielski
+  #twitter: _swanson
+  facebook: hpthai7
+  tumblr: hpthai7
+  linkedin: hpthai
   #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name: Matt Swanson
-email: test@example.com
+name: Thai Ho
+email: hophuthai @ gmail.com
 tagline: "weak opinions, strongly held"
 
 # Google Analytics key, leave blank to ignore
