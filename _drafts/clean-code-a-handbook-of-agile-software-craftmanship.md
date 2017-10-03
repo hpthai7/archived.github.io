@@ -13,14 +13,19 @@ making of insurance contracts. The big words of contracts, forewriting,
 
 Quotes:
 
-“If I don’t do what my manager says, I’ll be fired.” Probably not. Most managers want the truth, even when they don’t act like it. Most managers want good code, even when they are obsessing about the schedule. They may defend the schedule and requirements with passion; but that’s their job. It’s your job to defend the code with equal passion.
+"If I don’t do what my manager says, I’ll be fired." Probably not. Most managers want the truth, even when they don’t act like it. Most managers want good code, even when they are obsessing about the schedule. They may defend the schedule and requirements with passion; but that’s their job. It’s your job to defend the code with equal passion.
 You will not make the deadline by making the mess. Indeed, the mess will slow you down instantly, and will force you to miss the deadline. The only way to make the deadline - the only way to go fast - is to keep the code as clean as possible at all times.
+
 The Boy Scouts of America have a simple rule that we can apply to our profession: Leave the campground cleaner than you found it. If we all checked-in our code a little cleaner than when we checked it out, the code simply could not rot.
+
 Variables: You should name a variable using the same care with which you name a first-born child.
+
 Naming conventions: Some interesting ones:
 
 Use pronounceable names.
+
 The length of a name should correspond to the size of its scope (for search-friendliness).
+
 Instead of overloading constructors, use static factory methods with names that describe the arguments.
 Pick one word for one abstract concept and stick with it. For instance, it’s confusing to have fetch, retrieve, and get as equivalent methods of different classes.
 Functions: They should be short and only do one thing. So, another way to know that a function is doing more than “one thing” is if you can extract another function from it with a name that is not merely a restatement of its implementation. Try to keep the number of arguments as low as possible. 3 or more is a bad smell. Prefer Exception to returning error codes (often simplifies the code path).
