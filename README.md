@@ -75,3 +75,9 @@ run into trouble or have suggestions. Pull Requests always welcome.
 [pages]: http://pages.github.com
 [twitter]: https://twitter.com/_swanson
 [pages]: https://github.com/github/pages-gem
+
+## Sample blogs
+http://tom.preston-werner.com/
+https://rsms.me
+https://ewertonorg.github.io/
+http://matthias-endler.de/
