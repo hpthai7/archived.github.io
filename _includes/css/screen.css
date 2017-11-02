@@ -92,7 +92,7 @@ ul.posts span {
 }
 
 .meta {
-  color: #aaa;
+  color: #1673C4;
   margin: 0 0 10px 0;
 }
 
@@ -235,9 +235,8 @@ i.fa-hn {
 }
 
 .home {
-  font-size: 24px;
+  font-size: 64px;
   float: right;
-  color: #AAA;
 }
 
 .home:hover {

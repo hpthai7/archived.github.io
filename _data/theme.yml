@@ -10,7 +10,7 @@ social:
   #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  #twitter: _swanson
+  #twitter: 
   # facebook: hpthai7
   # tumblr: hpthai7
   linkedin: hpthai
@@ -18,13 +18,12 @@ social:
   gravatar: 6dd7db1d3d0e5b9ca2d1a79799412fa8
   # flickr: johndoe
 
-# "Hi, I'm _______"
 name: Phu Thai HO
 email: hophuthai @ gmail.com
-tagline: "weak opinions, strongly held"
+tagline: "curiosity drives knowlege"
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+google_analytics_key: UA-109158828-1
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
