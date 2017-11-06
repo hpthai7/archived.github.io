@@ -92,7 +92,7 @@ ul.posts span {
 }
 
 .meta {
-  color: #1673C4;
+  color: #B20000;
   margin: 0 0 10px 0;
 }
 
@@ -108,16 +108,16 @@ nav h1, nav h2 {
 }
 
 #bio {
-  margin-top: 10px;
-  margin-bottom: 15px;
-  border: dotted #ddd;
-  border-width: 1px 0;
+  margin-top: 20px;
+  margin-bottom: 30px;
   padding-top: 15px;
+  text-align: center;
 }
 
 #social {
   margin-bottom: 10px;
   font-size: 13px;
+  text-align: center;
 }
 
 #tags {
@@ -236,11 +236,14 @@ i.fa-hn {
 
 .home {
   font-size: 64px;
-  float: right;
 }
 
 .home:hover {
-  text-decoration: none;
+  text-decoration: blink;
+}
+
+.date {
+  float: right;
 }
 
 .disclaimer p {
