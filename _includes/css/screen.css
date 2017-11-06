@@ -173,6 +173,13 @@ nav h1, nav h2 {
   min-height: 400px;
 }
 
+.post-content {
+  font: 400 14px/24px "open sans", sans-serif;
+  padding-top: 25px;
+  min-height: 400px;
+  text-align: justify;
+}
+
 .footer {
   width: 100%;
 }
