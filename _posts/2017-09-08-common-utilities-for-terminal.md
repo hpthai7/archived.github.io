@@ -6,7 +6,9 @@ categories:
 - blog
 ---
 
-# [Autojump](https://github.com/wting/autojump)
+### Navigation
+
+#### [Autojump](https://github.com/wting/autojump)
 
 Navigation in terminals using command `cd` is a real hassle when we have to switch back and forth between multiple directories.
 Autojump is a convenient tool to jump to a visited directory. While `cd` is handy to jump to a near relative location, i.e. a children
@@ -22,7 +24,7 @@ $ j <directory-component>
 
 Where `directory-component` can be e constituent part in the expected directory, i.e. `/home/udev/workspace/project-<directory-component>`.
  
-# [HyperJump](https://github.com/x0054/hyperjump)
+#### [HyperJump](https://github.com/x0054/hyperjump)
 
 `HyperJump` is another navigation gadget for terminal. Unlike `autojump`, `HyperJump` uses manually bookmarked locations. Users have to
 tag location with custom names before using. It also provides a user interface based on the package `dialog`, allows choosing the locations
