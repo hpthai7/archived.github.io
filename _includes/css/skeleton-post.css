@@ -58,3 +58,6 @@
 
     /* Self Clearing Goodness */
     .post-container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+
+    /* TODO - Remove - Temporary hide unedited text */
+    .temp-display { display: none }

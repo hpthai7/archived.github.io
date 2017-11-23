@@ -120,6 +120,7 @@ Concurrency is a decoupling strategy. It helps us decouple what gets done from w
 
 Nothing has a more profound and long-term degrading effect upon a development project than bad code. Bad schedules can be redone, bad requirements can be redefined. Bad team dynamics can be repaired. But bad code rots and ferments, becoming an inexorable weight that drags the team down.
 
+<div class="temp-display">
 #Personal opinion
 
 Of course these principles are just guide lines and therefore come down to personal taste, and shouldn't be followed blindly. For instance, if you take his advice on refactoring any function that has more than three (!) lines, the functions become ridiculously small and harder to read in my opinion. Also, the book focuses on Java and OOP a lot, so you sometimes get advice that is mostly applicable to only the Java world.
@@ -163,3 +164,4 @@ class User < ActiveRecord::Base
 end
 
 {% endhighlight %}
+</div>
