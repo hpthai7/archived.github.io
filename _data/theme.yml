@@ -1,7 +1,7 @@
 # Theme customization - please change from the defaults!
 
 # Color for top bar, links, etc
-highlight_color: '#B20000'
+highlight_color: '#21618C'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
@@ -18,9 +18,9 @@ social:
   gravatar: 6dd7db1d3d0e5b9ca2d1a79799412fa8
   # flickr: johndoe
 
-name: Phu Thai HO
+name: Phu Thai Ho
 email: hophuthai @ gmail.com
-tagline: "curiosity drives knowlege"
+tagline: "curiosity drives knowledge"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-109158828-1
